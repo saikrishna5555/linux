@@ -1,0 +1,34 @@
+// Linux directory structure or folder structure
+
+path for directory in linux is followed by : / :it referes to root directory
+/boot :boot loader file
+/etc  : configuration file 
+/home :user home directory
+/root :root home directory
+/bin :user binary files
+/sbin : system binary files
+/opt  : third party application
+/usr :user applications 
+
+
+// linux commands
+// cd : change directory
+   cd ../ : one folder above
+   cd ./ : same directory
+   cd directory_name : to that particular directory
+
+// pwd : present working directory :it gives the full/absolute path to current directory.
+// ls :listing  all files and folders inside a directory
+
+// mkdir : for making folder/directory
+// rmdir : for deleting directory
+
+// files : touch sample.txt 
+// how to read files : cat file_name
+// delete file : rm filename
+
+// how to write something in file : open editor such vi in that particaulr file
+// vi filename
+: i :- insert mode : write something inside 
+ :wq :- save and quite
+
